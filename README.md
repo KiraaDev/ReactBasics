@@ -1,7 +1,7 @@
 # ReactBasics By Gomer Gaufo Jr.
 
 ###
-This project helps user to understand the basic folder structure.
+This project helps user to understand the basic folder structure in ReactJs.
 
 ###
 src/
